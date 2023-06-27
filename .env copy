@@ -1,0 +1,3 @@
+DB_URL="mongodb://localhost:27017/employee_portal"
+SECRET="SECRET"
+EXPIRE="1d"
